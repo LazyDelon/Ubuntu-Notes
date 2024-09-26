@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25eaf9d9-136f-4711-9d85-8c965db84787)# 📋 Ubuntu Notes
+# 📋 Ubuntu Notes
 
 ## 🎓 Download Ubuntu Raspberry-Pi
 
