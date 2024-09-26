@@ -1,8 +1,10 @@
-# Ubuntu-Notes🎓
+# 📋 Ubuntu Notes
 
-## 📋 Download Ubuntu OS
-
-
+## 🎓 Download Ubuntu Raspberry-Pi
 
 
 
+
+
+
+## 🎓 Download Ubuntu OS
