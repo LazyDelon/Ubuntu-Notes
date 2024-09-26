@@ -1,7 +1,8 @@
-# Ubuntu-Notes
+# Ubuntu-Notes🎓
 
-## 📋 Table Of Contents
+## 📋 Download Ubuntu OS
 
-| **Caption** | **Software Package** |
-| **01** | **🎓** |
+
+
+
 
