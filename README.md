@@ -2,6 +2,6 @@
 
 ## 📋 Table Of Contents
 
-| **Caption** | **Software Package** |
-| **01** | ** 🎓 ** |
+| **Caption** | **Software Package** 
+| **01** | ** 🎓 ** 
 
